@@ -1,5 +1,9 @@
 ### Olá 👋 tudo bem? Aqui estão alguns códigos que eu estou aprendendo em aula. 
 
+- 🏫 Estudo Engenharia de Computação
+- 💼 Trabalho na FedEx como Conferente de Logística
+- 🖥️ Aprendendo a programar em C e Java
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=inmartins&show_icons=true&theme=radical"
