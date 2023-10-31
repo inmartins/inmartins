@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋 tudo bem? Aqui estão alguns códigos que eu estou aprendendo em aula. 
 
-<!--
-**inmartins/inmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=inmartins&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=inmatrtins&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=inmartins&show_icons=true" />
+</picture>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=195 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=inmartins&layout=compact&langs_count=8&card_width=200&theme=radical" />
+</a>
