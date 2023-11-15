@@ -1,7 +1,6 @@
 ### Olá 👋 tudo bem? Aqui estão alguns códigos que eu estou aprendendo em aula. 
 
 - 🏫 Estudo Engenharia de Computação
-- 💼 Trabalho na FedEx como Conferente de Logística
 - 🖥️ Aprendendo a programar em C e Java
 
 <picture>
