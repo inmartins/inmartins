@@ -23,6 +23,8 @@
 </div>
   
   ##
+
+![Snake animation](https://github.com/inmartins/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
   
 
  
